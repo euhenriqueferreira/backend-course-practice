@@ -7,6 +7,7 @@
 
     // = -> atribuição
     // == -> comparação de valor
+    // === -> comparação de valor e tipo
 
     // if($nome == $nome2){
     //     echo 'verdade';
